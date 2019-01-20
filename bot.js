@@ -12,7 +12,7 @@ client.user.setPresence({
      name: 'Omaaar',
      details: `Royale Games And Tyrant `,
      url: 'http://twitch.tv/M7md_Salih',
-     state: `I have 17 years old do you know ?`,
+     state: `.`,
     application_id: '377479790195769345',
      assets: {
         small_image: `377480550207717376`,
